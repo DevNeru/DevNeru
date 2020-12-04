@@ -3,7 +3,6 @@
 ## I'm a Dutch student who has tought himself to code.
 - 🤖 Currently working on my discord bot!
 - 🧠 Trying to learn as much as possible
-- 👀 2020 goal: Create my own app
 - ⚡️ Fun Fact: I'm a graphic designer
 
 ### Languages and Tools:
